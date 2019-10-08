@@ -1,0 +1,12 @@
+
+.notification {
+    border: 1em;
+    border-color: green;
+    color: green
+}
+
+.error {
+    border: 1em;
+    border-color: red;
+    color: red
+}
